@@ -1,0 +1,21 @@
+{
+  "_comment": "Never change the format of your writing. The 'project name' must be writied equal to the 'project id value shown in the GCP Console'.",
+
+
+  "project_1" : [
+    "gke1", "gke2", "gke3"
+  ],
+  "project_2" : [
+    "gke1", "gke2", "gke3"
+  ],
+  "project_3" : [
+    "gke1", "gke2", "gke3"
+  ],
+  "project_4" : [
+    "gke1", "gke2", "gke3"
+  ]
+
+
+
+
+}

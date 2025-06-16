@@ -1,0 +1,13 @@
+[default]
+region = ap-northeast-2
+output = json
+[profile project_1]
+region = ap-northeast-2
+[profile project_2]
+region = ap-northeast-2
+[profile project_3]
+region = ap-northeast-2
+[profile project_4]
+region = ap-northeast-2
+[profile project_5]
+region = ap-northeast-2

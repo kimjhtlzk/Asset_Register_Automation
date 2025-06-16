@@ -1,0 +1,42 @@
+
+{
+    "main_account" : {
+        "AccountName" : "project_1",
+        "AccountType": "Global",
+        "AccountId": "********************",
+        "secret_id": "********************",
+        "secret_key": "********************",
+        "Bucket": "logging-bucket-********************"
+    },
+    "projects" : [
+        {
+            "Chinaproject_1": {
+                "AccountType": "China",
+                "AccountId": "********************",
+                "secret_id": "********************",
+                "secret_key": "********************",
+                "Bucket": "logging-bucket-********************"
+            },
+            "project_2": {
+                "AccountType": "Global",
+                "AccountId": "********************",
+                "Bucket": "logging-bucket-********************"
+            },
+            "project_3": {
+                "AccountType": "Global",
+                "AccountId": "********************",
+                "Bucket": "logging-bucket-********************"
+            },
+            "project_4": {
+                "AccountType": "Global",
+                "AccountId": "********************",
+                "Bucket": "logging-bucket-********************"
+            },
+            "project_5": {
+                "AccountType": "Global",
+                "AccountId": "********************",
+                "Bucket": "logging-bucket-********************"
+            }
+        }
+    ]
+}
